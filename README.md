@@ -1,1 +1,0 @@
-Intelligente Messstaion zu Raumüberwachung
